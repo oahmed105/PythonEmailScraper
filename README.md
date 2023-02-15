@@ -7,8 +7,6 @@ Here's a brief overview of each project in this repository:
 
 Lead Generation Machine: Python script for scraping emails off of a google search.
 
-Each project folder contains a README file that provides a more detailed description of the project, as well as any data sources or relevant code.
-
 # Tools and Technologies
 Throughout these projects, I have used a range of tools and technologies, including:
 
